@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>cn.tietou.log.every</groupId>
-    <artifactId>use-log</artifactId>
+    <artifactId>use-log</artifactId> 
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>springmvc-aop-log</artifactId>
