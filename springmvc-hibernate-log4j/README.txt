@@ -1,0 +1,2 @@
+本项目演示springmvc+hibernate+log4j演示如何将日志
+包括sql语句记录到日志文件中
