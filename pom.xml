@@ -25,4 +25,4 @@
     <module>springmvc-hibernate-log4j</module>
     <module>springmvc-aop-log</module>
   </modules>
-</project>
+</project> 
